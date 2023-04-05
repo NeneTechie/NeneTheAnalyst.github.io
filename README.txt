@@ -1,7 +1,3 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 . I'm Nene, a data analyst with a deep passion for exploring data and building visualizations that effectively communicate insights. In my work, I enjoy diving into complex data sets to identify patterns, trends, and relationships. I'm skilled in using various tools and techniques to clean and transform data, making it easier to analyze and visualize.
 
