@@ -3,25 +3,27 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+. I'm Nene, a data analyst with a deep passion for exploring data and building visualizations that effectively communicate insights. In my work, I enjoy diving into complex data sets to identify patterns, trends, and relationships. I'm skilled in using various tools and techniques to clean and transform data, making it easier to analyze and visualize.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+As a data analyst, I understand the importance of presenting data in a way that's both understandable and engaging to different audiences. That's why I'm always on the lookout for innovative ways to visualize data, whether it's through interactive dashboards, heat maps, or other types of charts and graphs. By doing so, I help stakeholders make informed decisions based on data-driven insights.
 
-(* = not included)
+Overall, my interest in exploring data and building visuals goes beyond just my job; it's a personal passion that drives me to continually improve my skills and stay up-to-date with the latest tools and techniques in the field.
 
-AJ
-aj@lkn.io | @ajlkn
+
+images* courtesy of Google images.
+
+
+
+NPO
+Nene.io | @Nene
 
 
 Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+
+	Massively	
 
 	Icons:
 		Font Awesome (fontawesome.io)
